@@ -1,0 +1,187 @@
+Fecha de diagnóstico,Fecha inicio sintomas,Ciudad,Código Comuna,Comuna,Código Barrio,Barrio,Código Zona,Grupo Edad,Sexo,Tipo de caso,Atención,Estado,Recuperado
+03/28/2020 12:00:00 AM,Asintomático,Medellín,11,Laureles Estadio,1108,Laureles,197,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+03/30/2020 12:00:00 AM,Asintomático,Medellín,14,El Poblado,1404,Castropol,245,20 a 29 años,M,Relacionado con la importación,En casa,Leve,SI
+03/30/2020 12:00:00 AM,Asintomático,Medellín,14,El Poblado,1404,Castropol,245,30 a 39 años,M,Importado,En casa,Leve,SI
+03/30/2020 12:00:00 AM,Asintomático,Medellín,14,El Poblado,1409,El Tesoro,235,10 a 19 años,F,Relacionado con la importación,En casa,Leve,SI
+04/06/2020 12:00:00 AM,Asintomático,Medellín,15,Guayabal,1511,La Colina,285,50 a 59 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/06/2020 12:00:00 AM,Asintomático,Medellín,8,Villa Hermosa,810,El Pinal,127,10 a 19 años,F,Relacionado con fuente desconocida,En casa,Leve,NO
+04/13/2020 12:00:00 AM,Asintomático,Medellín,-1,No Ubicada,-1,No Ubicada,-1,50 a 59 años,M,Importado,En casa,Leve,NO
+04/13/2020 12:00:00 AM,Asintomático,Medellín,-1,No Ubicada,-1,No Ubicada,-1,30 a 39 años,F,Importado,En casa,Leve,NO
+04/13/2020 12:00:00 AM,Asintomático,Medellín,-1,No Ubicada,-1,No Ubicada,-1,30 a 39 años,M,Importado,En casa,Leve,NO
+04/14/2020 12:00:00 AM,Asintomático,Medellín,11,Laureles Estadio,1102,Suramericana,181,50 a 59 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/15/2020 12:00:00 AM,Asintomático,Medellín,8,Villa Hermosa,807,Los Mangos,126,Menor de 9 años,M,Relacionado con la importación,En casa,Leve,NO
+04/15/2020 12:00:00 AM,Asintomático,Medellín,4,Aranjuez,413,Aranjuez,62,50 a 59 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/16/2020 12:00:00 AM,2020-04-15,Medellín,3,Manrique,312,Oriente,5,30 a 39 años,F,Relacionado con fuente desconocida,En casa,Leve,NO
+04/16/2020 12:00:00 AM,2020-04-14,Medellín,6,Doce de Octubre,604,Pedregal,92,10 a 19 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/17/2020 12:00:00 AM,2020-04-14,Medellín,13,San Javier,1318,Antonio Nariño,222,20 a 29 años,M,Relacionado,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-11,Medellín,1,Popular,101,Santo Domingo Savio No.1,24,40 a 49 años,F,Fuente desconocida,En casa,Leve,NO
+04/17/2020 12:00:00 AM,2020-04-11,Medellín,7,Robledo,712,Aures No.2,112,30 a 39 años,M,Relacionado,En casa,Leve,NO
+04/12/2020 12:00:00 AM,2020-04-10,Medellín,8,Villa Hermosa,813,Villatina,122,20 a 29 años,F,Importado,En casa,Leve,NO
+04/13/2020 12:00:00 AM,2020-04-10,Medellín,11,Laureles Estadio,1102,Suramericana,181,30 a 39 años,M,Importado,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-10,Medellín,13,San Javier,1304,Los Alcázares,208,50 a 59 años,F,Fuente desconocida,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-10,Medellín,13,San Javier,1306,La Pradera,217,30 a 39 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-09,Medellín,12,La América,1210,Barrio Cristóbal,212,20 a 29 años,M,En estudio,En casa,Leve,NO
+04/13/2020 12:00:00 AM,2020-04-08,Medellín,6,Doce de Octubre,604,Pedregal,92,40 a 49 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/17/2020 12:00:00 AM,2020-04-08,Medellín,70,Corregimiento de Altavista,7096,Área de Expansión Altavista,324,50 a 59 años,M,Relacionado,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-08,Medellín,5,Castilla,519,El Progreso,86,30 a 39 años,F,En estudio,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-08,Medellín,1,Popular,103,Popular,29,20 a 29 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/12/2020 12:00:00 AM,2020-04-07,Medellín,14,El Poblado,1411,Los Balsos No.1,237,20 a 29 años,M,Fuente desconocida,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-07,Medellín,5,Castilla,511,Castilla,82,50 a 59 años,F,Relacionado con fuente desconocida,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-07,Medellín,13,San Javier,1310,Veinte de Julio,223,40 a 49 años,M,En estudio,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-07,Medellín,13,San Javier,1310,Veinte de Julio,223,40 a 49 años,F,Relacionado con fuente desconocida,En casa,Leve,NO
+04/16/2020 12:00:00 AM,2020-04-07,Medellín,13,San Javier,1314,Las Independencias,224,60 a 69 años,M,Relacionado con la importación,Hospitalizado,Moderado,NO
+04/14/2020 12:00:00 AM,2020-04-06,Medellín,7,Robledo,711,El Diamante,104,30 a 39 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-06,Medellín,8,Villa Hermosa,808,Enciso,133,10 a 19 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-06,Medellín,15,Guayabal,1503,Trinidad,282,10 a 19 años,F,En estudio,Hospitalizado,Leve,NO
+04/17/2020 12:00:00 AM,2020-04-06,Medellín,12,La América,1205,La Floresta,201,20 a 29 años,M,Relacionado,En casa,Leve,NO
+04/09/2020 12:00:00 AM,2020-04-05,Medellín,16,Belén,1607,Diego Echavarría,294,50 a 59 años,M,En estudio,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-05,Medellín,8,Villa Hermosa,801,Villa Hermosa,131,50 a 59 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/12/2020 12:00:00 AM,2020-04-04,Medellín,3,Manrique,301,La Salle,33,20 a 29 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/17/2020 12:00:00 AM,2020-04-04,Medellín,4,Aranjuez,405,Moravia,68,20 a 29 años,F,En estudio,Hospitalizado,Moderado,NO
+04/07/2020 12:00:00 AM,2020-04-03,Medellín,16,Belén,1611,La Loma de Los Bernal,419,40 a 49 años,F,Relacionado con la importación,En casa,Leve,SI
+04/10/2020 12:00:00 AM,2020-04-03,Medellín,8,Villa Hermosa,808,Enciso,134,40 a 49 años,M,Relacionado con fuente desconocida,Hospitalizado,Leve,NO
+04/11/2020 12:00:00 AM,2020-04-03,Medellín,6,Doce de Octubre,604,Pedregal,92,50 a 59 años,F,Fuente desconocida,UCI,Grave,NO
+04/07/2020 12:00:00 AM,2020-04-02,Medellín,7,Robledo,713,Aures No.1,113,40 a 49 años,M,Relacionado con la importación,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-04-02,Medellín,16,Belén,1611,La Loma de Los Bernal,419,50 a 59 años,M,Relacionado con la importación,En casa,Leve,SI
+04/13/2020 12:00:00 AM,2020-04-02,Medellín,15,Guayabal,1511,La Colina,285,50 a 59 años,F,Relacionado con fuente desconocida,En casa,Leve,NO
+04/13/2020 12:00:00 AM,2020-04-02,Medellín,7,Robledo,716,Palenque,417,40 a 49 años,M,Relacionado con fuente desconocida,En casa,Leve,SI
+04/14/2020 12:00:00 AM,2020-04-02,Medellín,8,Villa Hermosa,812,La Libertad,122,50 a 59 años,F,Fuente desconocida,En casa,Leve,NO
+04/05/2020 12:00:00 AM,2020-04-01,Medellín,7,Robledo,716,Palenque,417,50 a 59 años,F,Fuente desconocida,En casa,Moderado,NO
+04/10/2020 12:00:00 AM,2020-04-01,Medellín,12,La América,1205,La Floresta,201,60 a 69 años,M,Relacionado con la importación,En casa,Leve,NO
+04/12/2020 12:00:00 AM,2020-04-01,Medellín,9,Buenos Aires,903,Bomboná No.2,124,30 a 39 años,M,Relacionado con la importación,En casa,Leve,SI
+04/14/2020 12:00:00 AM,2020-04-01,Medellín,11,Laureles Estadio,1102,Suramericana,181,50 a 59 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/14/2020 12:00:00 AM,2020-04-01,Medellín,13,San Javier,1314,Las Independencias,224,40 a 49 años,M,Fuente desconocida,UCI,Leve,NO
+04/15/2020 12:00:00 AM,2020-04-01,Medellín,7,Robledo,712,Aures No.2,112,20 a 29 años,M,Relacionado con fuente desconocida,En casa,Leve,NO
+04/09/2020 12:00:00 AM,2020-03-31,Medellín,15,Guayabal,1511,La Colina,285,20 a 29 años,F,Relacionado con fuente desconocida,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-30,Medellín,12,La América,1208,Campo Alegre,220,30 a 39 años,F,Importado,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-30,Medellín,14,El Poblado,1411,Los Balsos No.1,237,10 a 19 años,F,Relacionado con la importación,En casa,Leve,SI
+04/12/2020 12:00:00 AM,2020-03-30,Medellín,13,San Javier,1304,Los Alcázares,208,80 a 89 años,M,Fuente desconocida,Hospitalizado,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-29,Medellín,-1,No Ubicada,-1,No Ubicada,-1,60 a 69 años,F,Relacionado con la importación,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-28,Medellín,13,San Javier,1316,El Salado,226,60 a 69 años,F,Relacionado con la importación,En casa,Leve,NO
+04/12/2020 12:00:00 AM,2020-03-28,Medellín,14,El Poblado,1411,Los Balsos No.1,237,50 a 59 años,M,Fuente desconocida,En casa,Moderado,SI
+04/13/2020 12:00:00 AM,2020-03-28,Medellín,13,San Javier,1304,Los Alcázares,208,30 a 39 años,F,Relacionado con la importación,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-27,Medellín,16,Belén,1601,Fátima,278,50 a 59 años,F,Importado,En casa,Leve,SI
+04/02/2020 12:00:00 AM,2020-03-26,Medellín,11,Laureles Estadio,1105,Los Conquistadores,185,50 a 59 años,F,Importado,En casa,Leve,NO
+04/03/2020 12:00:00 AM,2020-03-26,Medellín,16,Belén,1611,La Loma de Los Bernal,419,50 a 59 años,M,Fuente desconocida,En casa,Leve,SI
+04/04/2020 12:00:00 AM,2020-03-26,Medellín,7,Robledo,723,Pajarito,115,40 a 49 años,M,Relacionado con la importación,En casa,Leve,SI
+04/06/2020 12:00:00 AM,2020-03-26,Medellín,12,La América,1205,La Floresta,201,50 a 59 años,M,Relacionado con la importación,UCI,Grave,SI
+04/07/2020 12:00:00 AM,2020-03-26,Medellín,16,Belén,1613,Altavista,313,60 a 69 años,F,Relacionado con la importación,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-26,Medellín,14,El Poblado,1412,San Lucas,238,50 a 59 años,M,Relacionado con la importación,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-26,Medellín,16,Belén,1620,El Nogal-Los Almendros,297,30 a 39 años,F,Importado,En casa,Leve,NO
+03/31/2020 12:00:00 AM,2020-03-25,Medellín,12,La América,1205,La Floresta,201,60 a 69 años,F,Relacionado con la importación,UCI,Grave,NO
+04/01/2020 12:00:00 AM,2020-03-25,Medellín,-1,No Ubicada,-1,No Ubicada,-1,40 a 49 años,M,Relacionado con la importación,En casa,Leve,SI
+04/02/2020 12:00:00 AM,2020-03-25,Medellín,7,Robledo,713,Aures No.1,113,40 a 49 años,F,Fuente desconocida,En casa,Leve,NO
+04/02/2020 12:00:00 AM,2020-03-25,Medellín,16,Belén,1613,Altavista,313,30 a 39 años,F,Importado,En casa,Leve,NO
+04/10/2020 12:00:00 AM,2020-03-25,Medellín,8,Villa Hermosa,813,Villatina,122,60 a 69 años,F,Fuente desconocida,En casa,Moderado,SI
+03/31/2020 12:00:00 AM,2020-03-24,Medellín,15,Guayabal,1511,La Colina,285,60 a 69 años,M,Fuente desconocida,UCI,Grave,NO
+04/02/2020 12:00:00 AM,2020-03-24,Medellín,8,Villa Hermosa,810,El Pinal,127,70 a 79 años,F,Fuente desconocida,En casa,Moderado,SI
+04/02/2020 12:00:00 AM,2020-03-24,Medellín,10,La Candelaria,1018,Villa Nueva,151,20 a 29 años,M,Importado,En casa,Leve,SI
+04/04/2020 12:00:00 AM,2020-03-24,Medellín,7,Robledo,716,Palenque,417,50 a 59 años,M,Fuente desconocida,UCI,Moderado,SI
+04/07/2020 12:00:00 AM,2020-03-24,Medellín,14,El Poblado,1411,Los Balsos No.1,237,40 a 49 años,M,Relacionado con la importación,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-24,Medellín,80,Corregimiento de San Antonio de Prado,8000,San Antonio de Prado,457,40 a 49 años,F,Importado,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-24,Medellín,16,Belén,1612,La Gloria,303,50 a 59 años,M,En estudio,En casa,Leve,SI
+04/13/2020 12:00:00 AM,2020-03-24,Medellín,8,Villa Hermosa,803,San Miguel,140,70 a 79 años,F,Importado,En casa,Leve,NO
+03/28/2020 12:00:00 AM,2020-03-23,Medellín,7,Robledo,716,Palenque,417,Menor de 9 años,F,Relacionado con la importación,En casa,Leve,SI
+04/03/2020 12:00:00 AM,2020-03-23,Medellín,6,Doce de Octubre,602,Doce de Octubre No.1,108,40 a 49 años,M,Importado,En casa,Leve,SI
+04/05/2020 12:00:00 AM,2020-03-23,Medellín,7,Robledo,716,Palenque,417,20 a 29 años,F,Relacionado con la importación,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-23,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,40 a 49 años,M,Importado,En casa,Leve,NO
+04/02/2020 12:00:00 AM,2020-03-22,Medellín,11,Laureles Estadio,1108,Laureles,198,30 a 39 años,F,Importado,En casa,Leve,NO
+04/03/2020 12:00:00 AM,2020-03-22,Medellín,14,El Poblado,1411,Los Balsos No.1,237,20 a 29 años,F,Fuente desconocida,En casa,Leve,NO
+04/03/2020 12:00:00 AM,2020-03-22,Medellín,11,Laureles Estadio,1108,Laureles,197,50 a 59 años,M,Relacionado con la importación,En casa,Leve,SI
+04/03/2020 12:00:00 AM,2020-03-22,Medellín,80,Corregimiento de San Antonio de Prado,8000,San Antonio de Prado,457,20 a 29 años,F,Importado,En casa,Leve,NO
+04/04/2020 12:00:00 AM,2020-03-22,Medellín,16,Belén,1611,La Loma de Los Bernal,419,50 a 59 años,F,Importado,En casa,Leve,SI
+04/05/2020 12:00:00 AM,2020-03-22,Medellín,11,Laureles Estadio,1109,Las Acacias,199,60 a 69 años,F,Importado,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-22,Medellín,11,Laureles Estadio,1110,La Castellana,204,50 a 59 años,M,Importado,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-22,Medellín,9,Buenos Aires,914,Asomadera No.1,146,30 a 39 años,M,En estudio,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-22,Medellín,6,Doce de Octubre,606,San Martín de Porres,102,30 a 39 años,F,Importado,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-22,Medellín,70,Corregimiento de Altavista,7097,Área de Expansión Belén Rincón,419,20 a 29 años,M,Importado,En casa,Leve,SI
+03/31/2020 12:00:00 AM,2020-03-21,Medellín,12,La América,1202,Calasanz,200,60 a 69 años,M,Importado,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-21,Medellín,14,El Poblado,1421,Patio Bonito,256,50 a 59 años,M,Importado,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-21,Medellín,14,El Poblado,1412,San Lucas,232,50 a 59 años,F,En estudio,En casa,Leve,NO
+04/02/2020 12:00:00 AM,2020-03-20,Medellín,16,Belén,1621,Cerro Nutibara,262,60 a 69 años,F,Importado,En casa,Leve,NO
+04/03/2020 12:00:00 AM,2020-03-20,Medellín,9,Buenos Aires,913,Loreto,146,30 a 39 años,F,Fuente desconocida,En casa,Leve,SI
+04/03/2020 12:00:00 AM,2020-03-20,Medellín,4,Aranjuez,405,Moravia,68,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+04/04/2020 12:00:00 AM,2020-03-20,Medellín,7,Robledo,715,Villa Flora,105,40 a 49 años,M,Relacionado con la importación,En casa,Leve,NO
+04/04/2020 12:00:00 AM,2020-03-20,Medellín,5,Castilla,511,Castilla,82,30 a 39 años,F,En estudio,En casa,Leve,SI
+04/04/2020 12:00:00 AM,2020-03-20,Medellín,12,La América,1207,El Danubio,211,30 a 39 años,F,En estudio,En casa,Leve,SI
+04/05/2020 12:00:00 AM,2020-03-20,Medellín,6,Doce de Octubre,603,Doce de Octubre No.2,101,30 a 39 años,F,Fuente desconocida,En casa,Moderado,SI
+04/06/2020 12:00:00 AM,2020-03-20,Medellín,7,Robledo,718,Cucaracho,115,Mayores de 80 años,F,Relacionado con la importación,FALLECIDO,FALLECIDO,NO
+04/07/2020 12:00:00 AM,2020-03-20,Medellín,12,La América,1211,Simón Bolívar,203,50 a 59 años,M,Relacionado con la importación,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-20,Medellín,14,El Poblado,1411,Los Balsos No.1,237,50 a 59 años,F,Importado,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-20,Medellín,7,Robledo,716,Palenque,417,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-20,Medellín,15,Guayabal,1511,La Colina,285,50 a 59 años,M,Importado,En casa,Leve,SI
+04/15/2020 12:00:00 AM,2020-03-20,Medellín,14,El Poblado,1409,El Tesoro,235,30 a 39 años,F,Relacionado con la importación,En casa,Leve,NO
+03/28/2020 12:00:00 AM,2020-03-19,Medellín,7,Robledo,716,Palenque,417,60 a 69 años,F,Relacionado con la importación,En casa,Leve,SI
+03/30/2020 12:00:00 AM,2020-03-19,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,228,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+04/01/2020 12:00:00 AM,2020-03-19,Medellín,5,Castilla,502,Las Brisas,79,40 a 49 años,F,Relacionado con la importación,En casa,Leve,SI
+04/02/2020 12:00:00 AM,2020-03-19,Medellín,5,Castilla,502,Las Brisas,79,20 a 29 años,F,Relacionado con la importación,En casa,Leve,NO
+04/03/2020 12:00:00 AM,2020-03-19,Medellín,11,Laureles Estadio,1108,Laureles,198,40 a 49 años,M,Relacionado con fuente desconocida,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-19,Medellín,11,Laureles Estadio,1107,Bolivariana,190,60 a 69 años,M,Relacionado con la importación,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-19,Medellín,10,La Candelaria,1019,La Candelaria,154,30 a 39 años,F,Importado,En casa,Leve,SI
+03/28/2020 12:00:00 AM,2020-03-18,Medellín,16,Belén,1603,Belén,298,20 a 29 años,F,Importado,En casa,Leve,SI
+03/30/2020 12:00:00 AM,2020-03-18,Medellín,16,Belén,1614,La Palma,311,20 a 29 años,M,Importado,En casa,Leve,NO
+03/30/2020 12:00:00 AM,2020-03-18,Medellín,14,El Poblado,1409,El Tesoro,235,60 a 69 años,M,Importado,En casa,Leve,SI
+04/03/2020 12:00:00 AM,2020-03-18,Medellín,15,Guayabal,1511,La Colina,285,40 a 49 años,M,Importado,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-18,Medellín,16,Belén,1608,La Mota,295,30 a 39 años,F,Importado,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-18,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,50 a 59 años,M,Importado,En casa,Leve,SI
+04/16/2020 12:00:00 AM,2020-03-18,Medellín,10,La Candelaria,1008,Corazón de Jesús,177,30 a 39 años,M,Importado,En casa,Leve,NO
+03/28/2020 12:00:00 AM,2020-03-17,Medellín,7,Robledo,723,Pajarito,115,Menor de 9 años,F,Relacionado con la importación,En casa,Leve,SI
+04/02/2020 12:00:00 AM,2020-03-17,Medellín,5,Castilla,511,Castilla,82,30 a 39 años,F,Relacionado con fuente desconocida,En casa,Leve,SI
+04/02/2020 12:00:00 AM,2020-03-17,Medellín,80,Corregimiento de San Antonio de Prado,8000,San Antonio de Prado,456,30 a 39 años,F,Importado,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-17,Medellín,16,Belén,1613,Altavista,313,10 a 19 años,F,Importado,En casa,Leve,NO
+04/07/2020 12:00:00 AM,2020-03-17,Medellín,10,La Candelaria,1015,Bomboná No.1,144,30 a 39 años,F,Importado,En casa,Leve,NO
+03/20/2020 12:00:00 AM,2020-03-16,Medellín,-1,No Ubicada,-1,No Ubicada,-1,40 a 49 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-16,Medellín,14,El Poblado,1404,Castropol,245,50 a 59 años,M,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-16,Medellín,11,Laureles Estadio,1105,Los Conquistadores,186,40 a 49 años,M,Relacionado con la importación,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-16,Medellín,14,El Poblado,1409,El Tesoro,235,30 a 39 años,F,Importado,En casa,Leve,SI
+03/24/2020 12:00:00 AM,2020-03-16,Medellín,9,Buenos Aires,913,Loreto,138,30 a 39 años,M,Relacionado con la importación,En casa,Leve,SI
+03/24/2020 12:00:00 AM,2020-03-16,Medellín,11,Laureles Estadio,1113,Estadio,193,20 a 29 años,M,Relacionado con la importación,En casa,Leve,SI
+03/24/2020 12:00:00 AM,2020-03-16,Medellín,4,Aranjuez,415,Miranda,63,30 a 39 años,F,Fuente desconocida,En casa,Leve,SI
+03/28/2020 12:00:00 AM,2020-03-16,Medellín,10,La Candelaria,1020,San Diego,157,40 a 49 años,M,Importado,En casa,Leve,SI
+04/04/2020 12:00:00 AM,2020-03-16,Medellín,9,Buenos Aires,912,El Salvador,145,30 a 39 años,M,Importado,En casa,Leve,SI
+04/08/2020 12:00:00 AM,2020-03-16,Medellín,70,Corregimiento de Altavista,7097,Área de Expansión Belén Rincón,419,20 a 29 años,F,Relacionado con la importación,En casa,Leve,NO
+04/08/2020 12:00:00 AM,2020-03-16,Medellín,9,Buenos Aires,909,Cataluña,130,40 a 49 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-15,Medellín,16,Belén,1614,La Palma,311,20 a 29 años,F,Relacionado con la importación,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-15,Medellín,4,Aranjuez,414,Brasilia,54,40 a 49 años,F,Importado,En casa,Leve,SI
+03/24/2020 12:00:00 AM,2020-03-15,Medellín,6,Doce de Octubre,603,Doce de Octubre No.2,101,20 a 29 años,F,Relacionado con la importación,En casa,Leve,SI
+03/24/2020 12:00:00 AM,2020-03-15,Medellín,14,El Poblado,1423,Santa María de Los Ángeles,258,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+03/25/2020 12:00:00 AM,2020-03-15,Medellín,15,Guayabal,1509,Cristo Rey,284,30 a 39 años,M,Importado,En casa,Leve,SI
+03/28/2020 12:00:00 AM,2020-03-15,Medellín,14,El Poblado,1409,El Tesoro,229,40 a 49 años,M,Importado,En casa,Grave,NO
+03/31/2020 12:00:00 AM,2020-03-15,Medellín,11,Laureles Estadio,1107,Bolivariana,190,50 a 59 años,F,Relacionado con la importación,En casa,Leve,SI
+04/06/2020 12:00:00 AM,2020-03-15,Medellín,12,La América,1205,La Floresta,201,50 a 59 años,F,Relacionado con la importación,En casa,Leve,SI
+04/10/2020 12:00:00 AM,2020-03-15,Medellín,9,Buenos Aires,904,Los Cerros El Vergel,123,40 a 49 años,F,Relacionado con la importación,En casa,Moderado,NO
+03/19/2020 12:00:00 AM,2020-03-14,Medellín,4,Aranjuez,410,Campo Valdés No.1,47,50 a 59 años,F,Importado,En casa,Leve,SI
+03/20/2020 12:00:00 AM,2020-03-14,Medellín,7,Robledo,716,Palenque,417,30 a 39 años,F,Importado,En casa,Leve,SI
+03/22/2020 12:00:00 AM,2020-03-14,Medellín,16,Belén,1612,La Gloria,304,60 a 69 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-14,Medellín,14,El Poblado,1411,Los Balsos No.1,231,20 a 29 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-14,Medellín,14,El Poblado,1411,Los Balsos No.1,231,40 a 49 años,F,Importado,En casa,Leve,SI
+03/25/2020 12:00:00 AM,2020-03-14,Medellín,14,El Poblado,1423,Santa María de Los Ángeles,258,20 a 29 años,F,Importado,En casa,Leve,SI
+03/25/2020 12:00:00 AM,2020-03-14,Medellín,14,El Poblado,1423,Santa María de Los Ángeles,258,30 a 39 años,F,Importado,En casa,Leve,SI
+03/30/2020 12:00:00 AM,2020-03-14,Medellín,5,Castilla,511,Castilla,82,30 a 39 años,M,Fuente desconocida,En casa,Leve,SI
+03/19/2020 12:00:00 AM,2020-03-13,Medellín,14,El Poblado,1423,Santa María de Los Ángeles,258,40 a 49 años,M,Importado,En casa,Leve,SI
+03/20/2020 12:00:00 AM,2020-03-13,Medellín,14,El Poblado,1412,San Lucas,238,30 a 39 años,M,Fuente desconocida,En casa,Leve,SI
+03/20/2020 12:00:00 AM,2020-03-13,Medellín,7,Robledo,716,Palenque,417,40 a 49 años,M,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-13,Medellín,14,El Poblado,1403,Villa Carlota,259,20 a 29 años,M,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-13,Medellín,8,Villa Hermosa,802,La Mansión,139,30 a 39 años,F,Importado,En casa,Leve,SI
+03/25/2020 12:00:00 AM,2020-03-13,Medellín,14,El Poblado,1410,Los Naranjos,230,40 a 49 años,F,Importado,En casa,Leve,NO
+03/28/2020 12:00:00 AM,2020-03-13,Medellín,16,Belén,1601,Fátima,278,Mayores de 80 años,F,Importado,En casa,Leve,SI
+04/07/2020 12:00:00 AM,2020-03-13,Medellín,11,Laureles Estadio,1108,Laureles,197,50 a 59 años,M,Fuente desconocida,En casa,Moderado,NO
+03/20/2020 12:00:00 AM,2020-03-12,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,20 a 29 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-12,Medellín,14,El Poblado,1411,Los Balsos No.1,231,30 a 39 años,F,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-12,Medellín,14,El Poblado,1403,Villa Carlota,259,30 a 39 años,M,Importado,En casa,Leve,NO
+03/23/2020 12:00:00 AM,2020-03-11,Medellín,15,Guayabal,1504,Santa Fé,268,Mayores de 80 años,M,Importado,En casa,Leve,NO
+03/30/2020 12:00:00 AM,2020-03-11,Medellín,14,El Poblado,1404,Castropol,245,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+03/14/2020 12:00:00 AM,2020-03-10,Medellín,11,Laureles Estadio,1108,Laureles,198,20 a 29 años,M,Relacionado con la importación,En casa,Leve,SI
+03/15/2020 12:00:00 AM,2020-03-10,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,50 a 59 años,M,Importado,En casa,Leve,SI
+03/20/2020 12:00:00 AM,2020-03-10,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,230,60 a 69 años,F,Importado,En casa,Leve,SI
+03/19/2020 12:00:00 AM,2020-03-10,Medellín,8,Villa Hermosa,803,San Miguel,140,50 a 59 años,M,Importado,En casa,Leve,SI
+03/20/2020 12:00:00 AM,2020-03-10,Medellín,7,Robledo,708,Altamira,95,10 a 19 años,F,Relacionado con la importación,En casa,Leve,SI
+03/25/2020 12:00:00 AM,2020-03-10,Medellín,14,El Poblado,1423,Santa María de Los Ángeles,258,20 a 29 años,F,Importado,En casa,Leve,SI
+04/03/2020 12:00:00 AM,2020-03-10,Medellín,14,El Poblado,1411,Los Balsos No.1,237,30 a 39 años,F,Relacionado con la importación,En casa,Leve,SI
+03/14/2020 12:00:00 AM,2020-03-09,Medellín,14,El Poblado,1416,Alejandría,241,20 a 29 años,F,Relacionado con la importación,En casa,Leve,SI
+03/22/2020 12:00:00 AM,2020-03-09,Medellín,14,El Poblado,1409,El Tesoro,229,40 a 49 años,M,Importado,En casa,Leve,SI
+03/23/2020 12:00:00 AM,2020-03-08,Medellín,14,El Poblado,1409,El Tesoro,235,20 a 29 años,F,Importado,En casa,Leve,NO
+03/11/2020 12:00:00 AM,2020-03-05,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,50 a 59 años,M,Relacionado con la importación,En casa,Leve,SI
+03/11/2020 12:00:00 AM,2020-03-03,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,20 a 29 años,M,Relacionado con la importación,En casa,Leve,SI
+03/21/2020 12:00:00 AM,2020-03-02,Medellín,11,Laureles Estadio,1103,Naranjal,183,30 a 39 años,M,Importado,En casa,Leve,SI
+03/09/2020 12:00:00 AM,2020-02-28,Medellín,90,Corregimiento de Santa Elena,9001,Las Palmas,601,50 a 59 años,F,Importado,En casa,Leve,SI
